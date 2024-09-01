@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cooperjp
--  I’m currently working on ML applications of toxicology
+-  I’m currently working on ML applications of toxicology & pharmacovigilance
 
 
 <!---
